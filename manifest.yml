@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: samsung-web-templates
-  host: samsung-web-templates
+  name: sec-web-template
+  host: sec-web-template
   disk_quota: 1024M
